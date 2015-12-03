@@ -8,7 +8,6 @@ public class ResumeService {
 	private static final Logger LOGGER = Logger.getLogger(ResumeService.class);
 	
     public void storeResume() {
-//        System.out.println("Storing resume ...");
         LOGGER.info("Storing resume ...");
     }
 }
